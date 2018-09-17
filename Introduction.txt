@@ -1,0 +1,22 @@
+----------------------------------------------------------------------------
+
+You are a treasure hunter, who is searching for the lost treasure on an 
+unexplored island. 
+On the way to this Island, you were striked from an unknown source and your 
+plane crashed. 
+You wake up to the plains of the mountain jungle.
+You must be quick and smart to find the treasure before you starve to death. 
+
+----------------------------------------------------------------------------
+Health = 0 => Game over 
+Energy = 0 => Game over
+Can't find Treasure => Game over
+
+Find Treasure => Win
+
+X = OUT OF BOUNDS
+Y = YOUR CHARACTER
+W = Wolf, O = Ogre
+D = Dead Creature
+C = TREASURE
+----------------------------------------------------------------------------
